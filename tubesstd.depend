@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734621984 source:c:\users\lenovo\onedrive\documents\kuliah\sem 3\std\std smt3\tubesstd\main.cpp
+	"tubes.h"
+
+1734611288 c:\users\lenovo\onedrive\documents\kuliah\sem 3\std\std smt3\tubesstd\tubes.h
+	<iostream>
+	<string>
+
+1734613682 source:c:\users\lenovo\onedrive\documents\kuliah\sem 3\std\std smt3\tubesstd\tubes.cpp
+	"tubes.h"
+
